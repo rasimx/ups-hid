@@ -1,5 +1,7 @@
 # ups-hid
 
+Эмуляция UPS-HID бесперебойника на ардуино
+
 чтобы плата адекватно определялась, нужно отредактировать 
 
 ~/.platformio/platforms/atmelavr/boards/leonardo.json
